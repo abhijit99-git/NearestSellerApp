@@ -40,6 +40,7 @@ $search = $_GET['search'] ?? '';
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
+<link rel="icon" href="assets/best-seller.png" type="image/png">
 <title>Admin Panel</title>
 <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
 <style>

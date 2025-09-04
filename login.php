@@ -37,6 +37,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Admin Login - Nearest Seller Finder</title>
+  <link rel="icon" href="assets/best-seller.png" type="image/png">
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     body {
