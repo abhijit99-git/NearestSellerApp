@@ -41,7 +41,7 @@ $search = $_GET['search'] ?? '';
 <head>
 <meta charset="utf-8"/>
 <link rel="icon" href="assets/best-seller.png" type="image/png">
-<title>Admin Panel</title>
+<title>Nearest Seller Admin</title>
 <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
 <style>
 :root {
