@@ -32,7 +32,7 @@ if(isset($_POST['update_stock'])){
     $stmt->execute();
     $stmt->close();
 }
-
+//test
 $page = $_GET['page'] ?? 'sellers';
 $search = $_GET['search'] ?? '';
 ?>
